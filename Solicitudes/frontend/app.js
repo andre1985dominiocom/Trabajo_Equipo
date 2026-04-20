@@ -15,10 +15,10 @@
 
 // Requerimientos:
 
-import { getUsers } from "./modules/users/index.js";
-import { getPosts } from "./modules/posts/index.js";
-import { getComments } from "./modules/comments/index.js";
-import { deletePosts } from "./modules/posts/index.js";
+import { getUsers } from "./modules/enunciado1/users/index.js";
+// import { getPosts } from "./modules/enunciado2/posts/index.js";
+// import { getComments } from "./modules/enunciado2/comments/index.js";
+
 
 const main = async () => {
 
