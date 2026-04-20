@@ -16,8 +16,8 @@
 // Requerimientos:
 
 import { getUsers } from "./modules/enunciado1/users/index.js";
-// import { getPosts } from "./modules/enunciado2/posts/index.js";
-// import { getComments } from "./modules/enunciado2/comments/index.js";
+import { getPosts } from "./modules/enunciado2/posts/index.js";
+import { getComments } from "./modules/enunciado2/comments/index.js";
 
 
 const main = async () => {
